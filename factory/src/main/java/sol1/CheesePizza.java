@@ -13,6 +13,7 @@ public class CheesePizza  implements Pizza{
 
     @Override
     public void createPizza() {
+        int y;
         System.out.println("create cheese pizza");
     }
     
