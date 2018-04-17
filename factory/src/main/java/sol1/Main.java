@@ -19,6 +19,7 @@ public class Main {
         Factory factory= new  Factory();
         PizzaRestaurants pizzaRestaurants=new  PizzaRestaurants(factory);
         pizzaRestaurants.orderPizza("cheese");
+        System.out.println("hi");
     }
     
 }
